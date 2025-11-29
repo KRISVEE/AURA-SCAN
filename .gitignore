@@ -1,0 +1,6 @@
+# ... other ignored files ...
+node_modules/
+.DS_Store
+
+# Add this line:
+.env
